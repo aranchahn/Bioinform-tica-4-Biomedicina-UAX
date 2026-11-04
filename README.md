@@ -1,1 +1,1 @@
-# Bioinform-tica-4-Biomedicina-UAX
+# Bioinformatica-4-Biomedicina-UAX
